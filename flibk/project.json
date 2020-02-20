@@ -1,0 +1,7 @@
+{
+    "protobuf":{
+        "srcdir":"src/main/protobuf/",
+        "gendir":"src/generated/java",
+        "extension":"proto"
+    }
+}

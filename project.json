@@ -1,0 +1,6 @@
+{
+    "subprojects":[
+        "flibk/",
+        "lib5k/"
+    ]
+}

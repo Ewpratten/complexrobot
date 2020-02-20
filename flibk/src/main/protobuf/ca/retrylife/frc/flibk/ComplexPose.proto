@@ -1,0 +1,12 @@
+syntax = "proto2";
+
+package ca.retrylife.frc.flibk;
+
+option java_package = "ca.retrylife.frc.flibk";
+
+message ComplexPoseProto{
+    required double x = 1;
+    required double y = 2;
+    optional double z = 3;
+    required double theta = 4;
+}
